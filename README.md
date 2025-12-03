@@ -1,37 +1,15 @@
 # rust-web-service
-Rust RESTful API with Axum, Sqlx, Postgresql, Redis, and more..
-Something powerful cooking
-
+Rust RESTful API with Axum, Sqlx, Postgres, Redis, and more..
 
 ## Installation
 
 Start by cloning the repository and navigating into it:
 ```bash
-git clone https://github.com/softwaremill/rust-axum-sqlx-redis-ws-template
-cd rust-axum-sqlx-redis-ws-template
-cargo run
+git clone https://github.com/bomenderick/rust-web-service.git
+cd rust-web-service
 ```
 
-You should have a compiling project with the following panic message:
-```
-   Compiling bb8-redis v0.17.0
-   Compiling rust-axum-sqlx-redis-ws-template v0.1.0 (/home/lmx/isima/zz2/projet/exemple)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 3m 03s
-     Running `target/debug/rust-axum-sqlx-redis-ws-template`
-thread 'main' panicked at src/config.rs:9:58:
-DATABASE_URL must be set: NotPresent
-note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
-```
-
-You now need to create a `.env` file using this template:
-```bash
-cat <<EOF > .env
-DATABASE_URL=postgres://myuser:mypassword@localhost/mydb
-CACHE_URL=redis://localhost:6379
-EOF
-```
-
-Make sure to replace `myuser` and `mypassword` with your database credentials. If you do not have a database set up, follow this guide:
+Make sure to update the `.env` file to reflect your database credentials. If you do not have a database set up, follow this guide:
 
 ### Install Redis (for caching)
 ```bash
@@ -42,7 +20,7 @@ redis-cli ping # Check if Redis is running
 ```
 
 ### Install PostgreSQL
-```bash
+```bash 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
 sudo pacman -S postgresql
 sudo -iu postgres initdb -D /var/lib/postgres/data # Initialize database
 sudo systemctl start postgresql
@@ -71,16 +49,15 @@ exit
 ```
 
 ### Run the Application
-You can now restart the application:
 ```bash
 cargo run
 ```
 
 You should see:
 ```
-2025-02-08T13:12:59.819320Z  INFO rust_axum_sqlx_redis_ws_template: Connecting to pg: postgres://myuser:mypassword@localhost/mydb
-2025-02-08T13:12:59.819393Z  INFO rust_axum_sqlx_redis_ws_template: Connecting to cache: redis://localhost:6379
-2025-02-08T13:12:59.938547Z DEBUG rust_axum_sqlx_redis_ws_template: listening on 127.0.0.1:3000
+2025-12-03T22:24:24.779778Z  INFO rust_web_service: Connecting to pg: postgresql://rust:rust@localhost:5432/rustdb
+2025-12-03T22:24:24.781145Z  INFO rust_web_service: Connecting to cache: redis://localhost:6389
+2025-12-03T22:24:24.945507Z DEBUG rust_web_service: listening on 127.0.0.1:3000
 ```
 
 ### Test the API

@@ -1,8 +1,8 @@
 [package]
-name = "rust-axum-sqlx-redis-ws-hardcore"
+name = "rust-web-service"
 version = "0.1.0"
 edition = "2021"
-description = "Rust+Axum+Sqlx+Redis+Postgres Web Service hardcore"
+description = "Rust+Axum+Sqlx+Redis+Postgres Web Service"
 authors = ["Bomen Derick <bomenderick@gmail.com>"]
 
 [dependencies]

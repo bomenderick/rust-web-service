@@ -1375,36 +1375,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-axum-sqlx-redis-ws-hardcore"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "async-trait",
- "axum",
- "bb8-redis",
- "dotenv",
- "hyper",
- "mockall",
- "once_cell",
- "redis",
- "serde",
- "serde_json",
- "sqlx",
- "thiserror 1.0.69",
- "tokio",
- "tower",
- "tower-http",
- "tracing",
- "tracing-subscriber",
- "utoipa",
- "utoipa-axum",
- "utoipa-rapidoc",
- "utoipa-redoc",
- "utoipa-scalar",
- "utoipa-swagger-ui",
-]
-
-[[package]]
 name = "rust-embed"
 version = "8.9.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1436,6 +1406,36 @@ checksum = "60b161f275cb337fe0a44d924a5f4df0ed69c2c39519858f931ce61c779d3475"
 dependencies = [
  "sha2",
  "walkdir",
+]
+
+[[package]]
+name = "rust-web-service"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "async-trait",
+ "axum",
+ "bb8-redis",
+ "dotenv",
+ "hyper",
+ "mockall",
+ "once_cell",
+ "redis",
+ "serde",
+ "serde_json",
+ "sqlx",
+ "thiserror 1.0.69",
+ "tokio",
+ "tower",
+ "tower-http",
+ "tracing",
+ "tracing-subscriber",
+ "utoipa",
+ "utoipa-axum",
+ "utoipa-rapidoc",
+ "utoipa-redoc",
+ "utoipa-scalar",
+ "utoipa-swagger-ui",
 ]
 
 [[package]]
