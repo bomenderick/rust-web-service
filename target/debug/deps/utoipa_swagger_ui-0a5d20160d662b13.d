@@ -1,0 +1,14 @@
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/utoipa_swagger_ui-0a5d20160d662b13.d: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/oauth.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/rocket.rs /Volumes/Bomen/2026/rust-web-service/target/debug/build/utoipa-swagger-ui-428431f92aa07d80/out/embed.rs
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libutoipa_swagger_ui-0a5d20160d662b13.rlib: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/oauth.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/rocket.rs /Volumes/Bomen/2026/rust-web-service/target/debug/build/utoipa-swagger-ui-428431f92aa07d80/out/embed.rs
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libutoipa_swagger_ui-0a5d20160d662b13.rmeta: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/oauth.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/rocket.rs /Volumes/Bomen/2026/rust-web-service/target/debug/build/utoipa-swagger-ui-428431f92aa07d80/out/embed.rs
+
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/lib.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/actix.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/axum.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/oauth.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-swagger-ui-8.1.0/src/rocket.rs:
+/Volumes/Bomen/2026/rust-web-service/target/debug/build/utoipa-swagger-ui-428431f92aa07d80/out/embed.rs:
+
+# env-dep:OUT_DIR=/Volumes/Bomen/2026/rust-web-service/target/debug/build/utoipa-swagger-ui-428431f92aa07d80/out

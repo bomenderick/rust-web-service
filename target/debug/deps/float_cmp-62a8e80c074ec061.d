@@ -1,0 +1,12 @@
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/float_cmp-62a8e80c074ec061.d: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/macros.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps_eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ratio.rs
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libfloat_cmp-62a8e80c074ec061.rlib: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/macros.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps_eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ratio.rs
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libfloat_cmp-62a8e80c074ec061.rmeta: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/macros.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps_eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/eq.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ratio.rs
+
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/lib.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/macros.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ulps_eq.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/eq.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/float-cmp-0.9.0/src/ratio.rs:

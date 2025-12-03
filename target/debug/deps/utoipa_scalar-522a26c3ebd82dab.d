@@ -1,0 +1,11 @@
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/utoipa_scalar-522a26c3ebd82dab.d: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/../res/scalar.html
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libutoipa_scalar-522a26c3ebd82dab.rlib: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/../res/scalar.html
+
+/Volumes/Bomen/2026/rust-web-service/target/debug/deps/libutoipa_scalar-522a26c3ebd82dab.rmeta: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/../res/scalar.html
+
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/lib.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/actix.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/axum.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/rocket.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-scalar-0.2.0/src/../res/scalar.html:

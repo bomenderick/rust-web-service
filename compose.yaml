@@ -1,0 +1,31 @@
+services:
+  db:
+    image: postgres:17.0
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: rust
+      POSTGRES_USER: rust
+      POSTGRES_DB: rustdb
+    ports:
+      - "5444:5432"
+    networks:
+      - mynetwork
+  cache:
+    image: redis:latest
+    restart: always
+    ports:
+      - "6389:6379"
+    volumes:
+      - type: volume
+        source: cache
+        target: /data
+    networks:
+      - mynetwork
+
+volumes:
+  cache:
+    driver: local
+
+networks:
+  mynetwork:
+    driver: bridge

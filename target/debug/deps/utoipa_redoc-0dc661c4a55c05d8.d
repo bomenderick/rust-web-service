@@ -1,0 +1,11 @@
+/Volumes/Bomen/side-projects/rust-axum-sqlx-redis-ws-template/target/debug/deps/utoipa_redoc-0dc661c4a55c05d8.d: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/../res/redoc.html
+
+/Volumes/Bomen/side-projects/rust-axum-sqlx-redis-ws-template/target/debug/deps/libutoipa_redoc-0dc661c4a55c05d8.rlib: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/../res/redoc.html
+
+/Volumes/Bomen/side-projects/rust-axum-sqlx-redis-ws-template/target/debug/deps/libutoipa_redoc-0dc661c4a55c05d8.rmeta: /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/lib.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/actix.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/axum.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/rocket.rs /Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/../res/redoc.html
+
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/lib.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/actix.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/axum.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/rocket.rs:
+/Users/bomen/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/utoipa-redoc-5.0.0/src/../res/redoc.html:
